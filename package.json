@@ -1,0 +1,25 @@
+{
+  "name": "electron-template",
+  "version": "1.0.0",
+  "description": "Electron template",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sutigit/Electron-template.git"
+  },
+  "keywords": [
+    "electron.js"
+  ],
+  "author": "sutigit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sutigit/Electron-template/issues"
+  },
+  "homepage": "https://github.com/sutigit/Electron-template#readme",
+  "devDependencies": {
+    "electron": "^23.1.4"
+  }
+}
